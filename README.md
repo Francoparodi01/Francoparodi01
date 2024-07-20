@@ -9,7 +9,7 @@
 
 - 📫 Podés contactarme mediante mi mail **francoparodi2001@gmail.com**
 
-- ⚡ Algunos datos sobre mi **-Mi nivel de inglés es c1 advanced certificado por cambridge -Estudie medicina dos años hasta que me di cuenta que lo que me apasionaba era la programación- actualmente curso ingeniería informatica con mi mejor amigo**
+- ⚡ Algunos datos sobre mi **-Mi nivel de inglés es c1 advanced certificado por cambridge -Estudie medicina dos años hasta que me di cuenta que lo que me apasionaba era la programación- actualmente curso una tecnicatura en desarrollo de software en UADE (Universidad Argentina De Empresas)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
