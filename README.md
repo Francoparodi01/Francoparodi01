@@ -1,24 +1,136 @@
-<h1 align="center">Hola! Soy, Franco Parodi</h1>
-<h3 align="center">Interesado en el desarrollo web y diseño front-end</h3>
+<h1 align="center">Hola, soy Franco Parodi 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francoparodi01" alt="francoparodi01" /></a> </p>
-
-- 🌱 He terminado todos los cursos capacitadores **react, javascript, mysql, python**
-
-- 👨‍💻 Todos mis proyectos los podes encontrar en [https://portfolio-franco-parodi.netlify.app](https://portfolio-franco-parodi.netlify.app)
-
-- 📫 Podés contactarme mediante mi mail **francoparodi2001@gmail.com**
-
-- ⚡ Algunos datos sobre mi **-Mi nivel de inglés es c1 advanced certificado por cambridge -Estudie medicina dos años hasta que me di cuenta que lo que me apasionaba era la programación- actualmente curso una tecnicatura en desarrollo de software en UADE (Universidad Argentina De Empresas)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/franco-parodi-a638ab206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franco-parodi-a638ab206/" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Developer | Backend, Automation & Data</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  Desarrollo soluciones reales con foco en <b>Python</b>, <b>backend</b>, <b>automatización</b>, <b>APIs</b> y <b>procesamiento de datos</b>.
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francoparodi01&show_icons=true&locale=en&layout=compact" alt="francoparodi01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francoparodi01&" alt="francoparodi01" /></p>
+## Sobre mí
+
+Soy desarrollador de software con foco en **backend, automatización e integración de sistemas**.  
+Actualmente estudio **Desarrollo de Software en UADE** y trabajo en proyectos donde combino desarrollo backend, bots, scraping, APIs, bases de datos y lógica de negocio para resolver problemas concretos.
+
+Mi perfil técnico está especialmente orientado a:
+
+- desarrollo con **Python**
+- automatización de tareas y procesos
+- construcción de **APIs REST**
+- bots e integraciones
+- scraping y procesamiento de datos
+- proyectos aplicados a **finanzas, analítica e IA**
+
+También tengo conocimientos en tecnologías de frontend y full-stack como **JavaScript, TypeScript, React y Next.js**, que utilizo como complemento para construir soluciones más completas cuando el proyecto lo requiere.
+
+---
+
+## Perfil técnico
+
+### Backend / Automatización / Data
+- Desarrollo con **Python**
+- Automatización de procesos y tareas
+- Diseño e implementación de **APIs REST**
+- Bots e integraciones
+- Web scraping
+- Procesamiento y análisis de datos
+- Proyectos vinculados a **finanzas** e **IA aplicada**
+
+---
+
+## Tecnologías principales
+
+### Lenguajes
+`Python` `JavaScript` `TypeScript` `SQL` `PowerShell` `Java`
+
+### Backend / Data
+`Django` `Node.js` `APIs REST` `Scraping` `Automatización`
+
+### Bases de datos y herramientas
+`MongoDB` `MySQL` `Redis` `Prisma` `Git` `Docker`
+
+### Conocimientos complementarios
+`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
+
+---
+
+## Proyectos destacados
+
+### Backend / APIs
+- **django-api-rest**  
+  Proyecto enfocado en desarrollo backend y construcción de APIs.
+
+- **django-project**  
+  Base práctica para trabajar arquitectura backend con Python.
+
+- **TPO_IDII**  
+  Proyecto orientado a lógica de aplicación, estructura y resolución práctica desde backend.
+
+### Bots / Automatización
+- **Discord_bot**  
+  Bot desarrollado para automatización e interacción sobre plataformas de mensajería.
+
+- **bot_cotizaciones**  
+  Proyecto orientado a automatización y consulta de datos con foco práctico.
+
+- **TimeTracker-automate**  
+  Proyecto centrado en automatización de flujos y tareas.
+
+- **Rofex-automation**  
+  Automatización aplicada a un dominio financiero específico.
+
+### Data / Scraping / Finanzas
+- **DataTech**  
+  Proyecto de scraping y análisis de datos, con integración de almacenamiento y procesamiento.
+
+- **Portfolio-manager-**  
+  Proyecto vinculado a análisis y gestión orientada a finanzas.
+
+- **EconomARGY**  
+  Repositorio relacionado con análisis económico y procesamiento de información.
+
+- **IA-training / TPO_IA**  
+  Proyectos donde exploro IA aplicada y modelado sobre datos.
+
+---
+
+## En qué me enfoco hoy
+
+Actualmente estoy profundizando en:
+
+- **backend con Python**
+- **automatización e integraciones**
+- **APIs y servicios**
+- **scraping y pipelines de datos**
+- **bases de datos y arquitectura**
+- **proyectos aplicados a finanzas e IA**
+
+---
+
+## Qué tipo de proyectos me interesa construir
+
+Me motivan especialmente los proyectos que tengan alguno de estos componentes:
+
+- productos reales con utilidad concreta
+- automatización de procesos
+- APIs y servicios backend
+- bots e integraciones
+- scraping y pipelines de datos
+- herramientas aplicadas a finanzas, analítica o IA
+
+---
+
+## Contacto
+
+- 📧 **Email:** `francoparodi2001@gmail.com`
+- 🌐 **Portfolio:** [portfolio-francoparodi.vercel.app](https://portfolio-francoparodi.vercel.app)
+- 💼 **LinkedIn:** [Franco Parodi](https://www.linkedin.com/in/franco-parodi-a638ab206)
+
+---
+
+## Cierre
+
+Busco seguir creciendo como desarrollador backend, fortalecer la calidad técnica de mis proyectos y construir software que combine **utilidad real, criterio técnico y ejecución práctica**.
